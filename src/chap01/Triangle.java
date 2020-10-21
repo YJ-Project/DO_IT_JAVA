@@ -2,7 +2,7 @@ package chap01;
 
 import java.util.Scanner;
 /**
- * DOIT 01.기본알고리즘 연습문제(page 38)
+ * DOIT 01.기본알고리즘 연습문제(page 40)
  * @author lyj
  *
  */
