@@ -7,10 +7,6 @@ import java.util.Scanner;
  * @author lyj
  *
  */
-/**
- * @author lyj
- *
- */
 public class DayOfYear {
 	//각 달의 일수
 	static int[][] mdays = {
