@@ -1,7 +1,11 @@
 package chap02;
 
 import java.util.Scanner;
-
+/**
+ * DOIT 02.기본 자료구조 연습문제(page 70)
+ * @author lyj
+ *
+ */
 public class CardConvRev {
 
 	static int cardConvR(int x,int r, char[] d){
