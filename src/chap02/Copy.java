@@ -7,13 +7,6 @@ import java.util.Scanner;
  * @author lyj
  *
  */
-<<<<<<< HEAD
-=======
-/**
- * @author lyj
- *
- */
->>>>>>> branch 'main' of https://github.com/YJ-Project/DO_IT_JAVA.git
 public class Copy {
 
 	public static void main(String[] args) {
